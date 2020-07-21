@@ -1,0 +1,40 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.15" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+      </component>
+      <component name="YarnPnpManager">
+        <pnp-files />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI" />
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>adopt-openjdk-1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI" />
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
