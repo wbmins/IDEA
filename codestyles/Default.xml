@@ -1,8 +1,0 @@
-<code_scheme name="Default" version="173">
-  <codeStyleSettings language="JAVA">
-    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
-    <option name="ALIGN_CONSECUTIVE_VARIABLE_DECLARATIONS" value="true" />
-    <option name="ALIGN_CONSECUTIVE_ASSIGNMENTS" value="true" />
-    <option name="ALIGN_SUBSEQUENT_SIMPLE_METHODS" value="true" />
-  </codeStyleSettings>
-</code_scheme>
